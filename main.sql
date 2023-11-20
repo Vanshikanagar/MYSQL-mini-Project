@@ -4,7 +4,6 @@
 **                        **
 ** Authors:               **
 **   - Vanshika Nagar     **
-**                        **
 **   - Sanskriti Singh    **
 **                        **
 **                        **
