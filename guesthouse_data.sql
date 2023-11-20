@@ -4,10 +4,8 @@
  ** Mini Project                    **
  **                                 **
  ** Authors:                        **
- **   - Rupak Biswas                **
- **   - Aman Agarwal                **
- **   - Sanskriti Singh             **
- **   - Dinesh Chukkala             **
+ **   - Vanshika nagar             **
+ **   - Sanskriti Singh            **
  **                                 **
  ** File: guesthouse_services.sql   **
  *************************************
