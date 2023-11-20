@@ -3,10 +3,10 @@
 ** Mini Project           **
 **                        **
 ** Authors:               **
-**   - Rupak Biswas       **
-**   - Aman Agarwal       **
+**   - Vanshika Nagar     **
+**                        **
 **   - Sanskriti Singh    **
-**   - Dinesh Chukkala    **
+**                        **
 **                        **
 ** File: main.sql         **
 ****************************
