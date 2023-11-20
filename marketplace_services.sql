@@ -3,10 +3,9 @@
 ** Mini Project                       **
 **                                    **
 ** Authors:                           **
-**   - Rupak Biswas                   **
-**   - Aman Agarwal                   **
+**   - Vanshika Nagar                **
 **   - Sanskriti Singh                **
-**   - Dinesh Chukkala                **
+**                                     **
 **                                    **
 ** File: marketplace_services.sql     **
 ****************************************
